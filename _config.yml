@@ -1,0 +1,32 @@
+# Dependencies
+markdown:         kramdown
+highlighter:      rouge
+
+# Setup
+title:            Cheatsheet
+tagline:          
+description:      ""
+url:              https://username1111111111.github.io/
+baseurl:          /Why-so-serious/
+
+author:
+  name:           Username1111111111
+  url:            https://github.com/Username1111111111/
+  repo:			  https://github.com/Username1111111111/Why-so-serious/
+
+paginate:         5
+# paginate_path:    '/page:num'
+                    # Or '/my-jekyll-site/page:num' if you want to move your index pages
+
+plugins:
+  - jekyll-feed
+  - jekyll-gist
+  - jekyll-paginate
+
+# Custom vars
+version:            2.0.1
+
+github:
+  repo:         https://github.com/Username1111111111/Why-so-serious/
+
+repository:		https://github.com/Username1111111111/Why-so-serious/
