@@ -2,7 +2,7 @@
 > Personal cheatsheet based on Jekyll BlackDoc theme 
 > <p><a href="https://username1111111111.github.io/Why-so-serious/">Live demo here</a></p>
 > <p>Or 👇:</p>
-<a href="https://username1111111111.github.io/Joker-cheat-sheet/">![QR](./_resources/why-so-serious.png)
+<a href="https://username1111111111.github.io/Why-so-serious/">![QR](./_resources/why-so-serious.png)
 </a>
 
 
