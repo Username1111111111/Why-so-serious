@@ -3,6 +3,7 @@ layout: page
 title: Typescript
 permalink: /typescript/
 ---
+
 Explicitly define type of variable:
 ```ts
 let a: number = 4; // number
