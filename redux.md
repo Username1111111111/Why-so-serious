@@ -122,7 +122,7 @@ document.getElementById('rnd').addEventListener('click', () => {
 
 *  Action creator & dispatch binding, dispatch(rnd(value)) -> rndDispatch(value):
 
-```JS
+```js
 import {inc, dec, rnd} from '../actions';
 const {dispatch} = store;
 const rndDispatch = (value) => dispatch(rnd(value));
